@@ -1,0 +1,6 @@
+[submodule "social_media_be"]
+	path = social_media_be
+	url = https://github.com/krizek79/social_media_be
+[submodule "social_media_fe"]
+	path = social_media_fe
+	url = https://github.com/krizek79/social_media_fe
